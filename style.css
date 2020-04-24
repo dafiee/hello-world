@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.img{
+	width: 150px;
+	/*position: fixed;*/
+	height: 150px;
+	border-radius: 50%;
+	border: 10px solid #999;
+	box-shadow: 0 0 10px #333f;
+}
+
+.col-10{
+	box-shadow: 0 0 10px #5559;
+	padding: 10px;
+	border-right: 5px solid #f7f7f7; 
+	border-left: 10px solid #777; 
+}
